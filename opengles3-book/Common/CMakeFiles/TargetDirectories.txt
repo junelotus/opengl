@@ -1,0 +1,3 @@
+/home/user/june/test/opengl3es/opengles3-book/Common/CMakeFiles/edit_cache.dir
+/home/user/june/test/opengl3es/opengles3-book/Common/CMakeFiles/rebuild_cache.dir
+/home/user/june/test/opengl3es/opengles3-book/Common/CMakeFiles/Common.dir
